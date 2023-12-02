@@ -4,9 +4,6 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="https://github.com/sayasufi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github"/>
-  </a>
   <a href="https://t.me/throlib">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
