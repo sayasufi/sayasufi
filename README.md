@@ -11,7 +11,7 @@
              alt="Telegram"/>
     </a>
      <a href="https://vk.com/id46418950">
-        <img src="https://www.svgrepo.com/show/343532/vk-communication-internet-network-chat-interaction.svg"
+        <img src="https://www.svgrepo.com/show/343532/vk-communication-internet-network-chat-interaction.svg" width=50
              alt="VK"/>
     </a>
 </div>
