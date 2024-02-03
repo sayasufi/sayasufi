@@ -8,11 +8,11 @@
     <h2>Socials</h2>
     <a href="https://t.me/throlib">
         <img src="https://www.svgrepo.com/show/473804/telegram.svg" width=50
-             alt="Telegram"/>
+             alt="Telegram">
     </a>
      <a href="https://vk.com/id46418950">
         <img src="https://www.svgrepo.com/show/473825/vk.svg" width=50
-             alt="VK"/>
+             alt="VK">
     </a>
 </div>
 
