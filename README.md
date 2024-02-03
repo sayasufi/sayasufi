@@ -66,5 +66,5 @@
 
 <div id="stat" align="center">
     <h2>The time of languages</h2>
-    <a href="https://wakatime.com"><img src=""https://wakatime.com/share/@018c3f04-b140-41f9-a489-5b0143d153f5/86b90fbe-990d-4ebe-a889-30f6c188158b.png"" /></a>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018c3f04-b140-41f9-a489-5b0143d153f5/86b90fbe-990d-4ebe-a889-30f6c188158b.png" /></a>
 </div>
