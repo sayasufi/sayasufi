@@ -10,6 +10,10 @@
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
              alt="Telegram"/>
     </a>
+     <a href="https://vk.com/id46418950">
+        <img src="https://icons8.ru/icon/fMwt57vyBteK/vk-в-круге"
+             alt="VK"/>
+    </a>
 </div>
 
 ---
