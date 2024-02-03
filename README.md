@@ -7,11 +7,11 @@
 <div id="socials" align="center">
     <h2>Socials</h2>
     <a href="https://t.me/throlib">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
+        <img src="https://www.svgrepo.com/show/473804/telegram.svg" width=50
              alt="Telegram"/>
     </a>
      <a href="https://vk.com/id46418950">
-        <img src="https://www.svgrepo.com/show/343532/vk-communication-internet-network-chat-interaction.svg" width=50
+        <img src="https://www.svgrepo.com/show/473825/vk.svg" width=50
              alt="VK"/>
     </a>
 </div>
