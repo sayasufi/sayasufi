@@ -57,3 +57,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayasufi&theme=github_dark"
          alt=""/>
 </div>
+
+---
+
+<div id="stat" align="center">
+    <h2>The time of languages</h2>
+    <figure>
+        <embed src="https://wakatime.com/share/@018c3f04-b140-41f9-a489-5b0143d153f5/9abe6569-fed1-4c07-911c-592757c0a0ef.svg"></embed>
+    </figure>
+</div>
